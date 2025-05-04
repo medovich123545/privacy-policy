@@ -5,4 +5,5 @@ CryptaKey is a secure password and PIN generator built with Flutter. It runs 100
 ## 📄 Privacy Policy
 
 You can read our privacy policy here:  
-📄 [Privacy Policy](./PRIVACY.md)
+<a href="privacy-policy.html">Privacy Policy</a>
+
